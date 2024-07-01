@@ -1,6 +1,6 @@
 <h1>Tela de Login</h1>
 <br>
-<h2>Simples tela de login, desenvolvido utilizando as seguintes tecnologias:</h2>
+<h2>Simples tela de login, desenvolvido, utilizando as seguintes tecnologias:</h2>
 <br>
 <li>HTML</li>
 <li>CSS</li>
